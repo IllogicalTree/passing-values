@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "passing-values"
+  "defaultProject": "passing-values",
+  "cli": {
+    "analytics": "3b3627a2-6c63-4c23-934d-9519409ced74"
+  }
 }
